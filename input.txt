@@ -1,0 +1,19 @@
+Welcome TO Linux Shell
+
+Calistirilabilir komutlar listesi ;
+
+ls -l
+ls -l &
+pwd
+pwd &
+quit
+cat input.txt > output.txt &
+cat input.txt > output.txt
+cat input.txt < output.txt &
+cat input.txt < output.txt
+cat input.txt
+cat input.txt &
+cat < input.txt
+cat < input.txt &
+echo
+echo & 
